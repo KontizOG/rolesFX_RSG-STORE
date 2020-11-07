@@ -1,0 +1,1 @@
+Για να βαλεις καποιον σε ενα  ROLE χρειαζετε το hex steam και το κανεις replace στο 'sv_chat.lua' {steam:}
